@@ -12,6 +12,18 @@ Project1-EDA/**/share/jupyter/
 Project1-EDA/**/nbextensions/
 Project1-EDA/**/labextensions/
 Project1-EDA/**/kernels/
+
+# Project2-Netflix specific
+Project2-Netflix/**/share/jupyter/
+Project2-Netflix/**/nbextensions/
+Project2-Netflix/**/labextensions/
+Project2-Netflix/**/kernels/
+Project2-Netflix/agentic_AI*/
+Project2-Netflix/venv/
+Project2-Netflix/.venv/
+Project2-Netflix/env/
+
+# General patterns
 *.log
 *.tmp
 *.swp
