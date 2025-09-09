@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+venv/
+.venv/
+env/
+Project1-EDA/agentic_AI/
+Project1-EDA/agentic_AI_py312/
+Project1-EDA/**/share/jupyter/
+Project1-EDA/**/nbextensions/
+Project1-EDA/**/labextensions/
+Project1-EDA/**/kernels/
+*.log
+*.tmp
+*.swp
