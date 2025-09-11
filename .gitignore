@@ -27,3 +27,20 @@ Project2-Netflix/env/
 *.log
 *.tmp
 *.swp
+
+# Project3-HouseTrends specific
+Project3-HouseTrends/**/share/jupyter/
+Project3-HouseTrends/**/nbextensions/
+Project3-HouseTrends/**/labextensions/
+Project3-HouseTrends/**/kernels/
+Project3-HouseTrends/venv/
+Project3-HouseTrends/.venv/
+Project3-HouseTrends/env/
+Project3-HouseTrends/.kaggle/
+Project3-HouseTrends/kaggle.json
+Project3-HouseTrends/data/
+Project3-HouseTrends/models/
+Project3-HouseTrends/checkpoints/
+Project3-HouseTrends/outputs/
+Project3-HouseTrends/artifacts/
+Project3-HouseTrends/**/*.zip
