@@ -44,3 +44,24 @@ Project3-HouseTrends/checkpoints/
 Project3-HouseTrends/outputs/
 Project3-HouseTrends/artifacts/
 Project3-HouseTrends/**/*.zip
+
+# Project4-Health specific
+Project4-Health/**/share/jupyter/
+Project4-Health/**/nbextensions/
+Project4-Health/**/labextensions/
+Project4-Health/**/kernels/
+Project4-Health/venv/
+Project4-Health/.venv/
+Project4-Health/env/
+Project4-Health/.kaggle/
+Project4-Health/kaggle.json
+Project4-Health/data/
+Project4-Health/models/
+Project4-Health/checkpoints/
+Project4-Health/outputs/
+Project4-Health/artifacts/
+Project4-Health/**/*.zip
+Project4-Health/**/*.pkl
+Project4-Health/**/*.joblib
+Project4-Health/**/*.h5
+Project4-Health/**/*.hdf5
