@@ -140,3 +140,27 @@ Project7-CustomerChurn/**/*.hdf5
 Project7-CustomerChurn/**/*.csv
 Project7-CustomerChurn/**/Datasets/
 Project7-CustomerChurn/**/21-Days-21-Projects-Dataset/
+
+# DeepLearning1-DigitalRecogniser specific
+DeepLearning1-DigitalRecogniser/**/share/jupyter/
+DeepLearning1-DigitalRecogniser/**/nbextensions/
+DeepLearning1-DigitalRecogniser/**/labextensions/
+DeepLearning1-DigitalRecogniser/**/kernels/
+DeepLearning1-DigitalRecogniser/venv/
+DeepLearning1-DigitalRecogniser/.venv/
+DeepLearning1-DigitalRecogniser/env/
+DeepLearning1-DigitalRecogniser/agentic_AI*/
+DeepLearning1-DigitalRecogniser/.kaggle/
+DeepLearning1-DigitalRecogniser/kaggle.json
+DeepLearning1-DigitalRecogniser/data/
+DeepLearning1-DigitalRecogniser/models/
+DeepLearning1-DigitalRecogniser/checkpoints/
+DeepLearning1-DigitalRecogniser/outputs/
+DeepLearning1-DigitalRecogniser/artifacts/
+DeepLearning1-DigitalRecogniser/**/*.zip
+DeepLearning1-DigitalRecogniser/**/*.pkl
+DeepLearning1-DigitalRecogniser/**/*.joblib
+DeepLearning1-DigitalRecogniser/**/*.h5
+DeepLearning1-DigitalRecogniser/**/*.hdf5
+DeepLearning1-DigitalRecogniser/**/*.weights.h5
+DeepLearning1-DigitalRecogniser/**/best_*_model_weights.weights.h5
