@@ -164,3 +164,59 @@ DeepLearning1-DigitalRecogniser/**/*.h5
 DeepLearning1-DigitalRecogniser/**/*.hdf5
 DeepLearning1-DigitalRecogniser/**/*.weights.h5
 DeepLearning1-DigitalRecogniser/**/best_*_model_weights.weights.h5
+
+# DeepLearning2- Transfer Learning specific
+DeepLearning2- Transfer Learning/**/share/jupyter/
+DeepLearning2- Transfer Learning/**/nbextensions/
+DeepLearning2- Transfer Learning/**/labextensions/
+DeepLearning2- Transfer Learning/**/kernels/
+DeepLearning2- Transfer Learning/venv/
+DeepLearning2- Transfer Learning/.venv/
+DeepLearning2- Transfer Learning/env/
+DeepLearning2- Transfer Learning/agentic_AI*/
+DeepLearning2- Transfer Learning/.kaggle/
+DeepLearning2- Transfer Learning/kaggle.json
+DeepLearning2- Transfer Learning/data/
+DeepLearning2- Transfer Learning/models/
+DeepLearning2- Transfer Learning/checkpoints/
+DeepLearning2- Transfer Learning/outputs/
+DeepLearning2- Transfer Learning/artifacts/
+DeepLearning2- Transfer Learning/**/*.zip
+DeepLearning2- Transfer Learning/**/*.pkl
+DeepLearning2- Transfer Learning/**/*.joblib
+DeepLearning2- Transfer Learning/**/*.h5
+DeepLearning2- Transfer Learning/**/*.hdf5
+DeepLearning2- Transfer Learning/**/*.weights.h5
+DeepLearning2- Transfer Learning/**/best_*_model_weights.weights.h5
+
+# DeepLearning3 specific
+DeepLearning3/**/share/jupyter/
+DeepLearning3/**/nbextensions/
+DeepLearning3/**/labextensions/
+DeepLearning3/**/kernels/
+DeepLearning3/venv/
+DeepLearning3/.venv/
+DeepLearning3/env/
+DeepLearning3/agentic_AI*/
+DeepLearning3/.kaggle/
+DeepLearning3/kaggle.json
+DeepLearning3/data/
+DeepLearning3/models/
+DeepLearning3/checkpoints/
+DeepLearning3/outputs/
+DeepLearning3/artifacts/
+DeepLearning3/**/*.zip
+DeepLearning3/**/*.pkl
+DeepLearning3/**/*.joblib
+DeepLearning3/**/*.h5
+DeepLearning3/**/*.hdf5
+DeepLearning3/**/*.weights.h5
+DeepLearning3/**/best_*_model_weights.weights.h5
+# Generated images and results from gender style transfer
+DeepLearning3/gender_style_transfer_results/
+DeepLearning3/generated_images/
+DeepLearning3/**/generated_*/
+DeepLearning3/**/results/
+DeepLearning3/**/output/
+DeepLearning3/**/saved_models/
+DeepLearning3/**/pretrained_models/
