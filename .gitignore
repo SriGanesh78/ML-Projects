@@ -220,3 +220,36 @@ DeepLearning3/**/results/
 DeepLearning3/**/output/
 DeepLearning3/**/saved_models/
 DeepLearning3/**/pretrained_models/
+
+# Project15- SQL Generator specific
+Project15- SQL Generator/**/share/jupyter/
+Project15- SQL Generator/**/nbextensions/
+Project15- SQL Generator/**/labextensions/
+Project15- SQL Generator/**/kernels/
+Project15- SQL Generator/venv/
+Project15- SQL Generator/.venv/
+Project15- SQL Generator/env/
+Project15- SQL Generator/agentic_AI*/
+Project15- SQL Generator/.kaggle/
+Project15- SQL Generator/kaggle.json
+Project15- SQL Generator/data/
+Project15- SQL Generator/models/
+Project15- SQL Generator/checkpoints/
+Project15- SQL Generator/outputs/
+Project15- SQL Generator/artifacts/
+Project15- SQL Generator/**/*.zip
+Project15- SQL Generator/**/*.pkl
+Project15- SQL Generator/**/*.joblib
+Project15- SQL Generator/**/*.h5
+Project15- SQL Generator/**/*.hdf5
+Project15- SQL Generator/**/*.db
+Project15- SQL Generator/**/*.sqlite
+Project15- SQL Generator/**/*.sqlite3
+# Generated databases and SQL files from NL2SQL project
+Project15- SQL Generator/employee_management.db
+Project15- SQL Generator/**/*_database.db
+Project15- SQL Generator/**/*_data.db
+Project15- SQL Generator/**/sql_results/
+Project15- SQL Generator/**/query_outputs/
+Project15- SQL Generator/**/generated_queries/
+Project15- SQL Generator/**/nl2sql_results/
