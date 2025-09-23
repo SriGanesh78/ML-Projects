@@ -253,3 +253,52 @@ Project15- SQL Generator/**/sql_results/
 Project15- SQL Generator/**/query_outputs/
 Project15- SQL Generator/**/generated_queries/
 Project15- SQL Generator/**/nl2sql_results/
+
+# Project14- Text Generator Engine specific
+Project14- Text Generator Engine/**/share/jupyter/
+Project14- Text Generator Engine/**/nbextensions/
+Project14- Text Generator Engine/**/labextensions/
+Project14- Text Generator Engine/**/kernels/
+Project14- Text Generator Engine/venv/
+Project14- Text Generator Engine/.venv/
+Project14- Text Generator Engine/env/
+Project14- Text Generator Engine/agentic_AI*/
+Project14- Text Generator Engine/.kaggle/
+Project14- Text Generator Engine/kaggle.json
+Project14- Text Generator Engine/data/
+Project14- Text Generator Engine/models/
+Project14- Text Generator Engine/checkpoints/
+Project14- Text Generator Engine/outputs/
+Project14- Text Generator Engine/artifacts/
+Project14- Text Generator Engine/**/*.zip
+Project14- Text Generator Engine/**/*.pkl
+Project14- Text Generator Engine/**/*.joblib
+Project14- Text Generator Engine/**/*.h5
+Project14- Text Generator Engine/**/*.hdf5
+Project14- Text Generator Engine/**/*.weights.h5
+Project14- Text Generator Engine/**/*.weights
+Project14- Text Generator Engine/**/*.bin
+Project14- Text Generator Engine/**/*.safetensors
+# GPT-2 model files and checkpoints
+Project14- Text Generator Engine/**/tinygpt2_*/
+Project14- Text Generator Engine/**/gpt2_*/
+Project14- Text Generator Engine/**/model_*/
+Project14- Text Generator Engine/**/checkpoint_*/
+Project14- Text Generator Engine/**/epoch_*/
+Project14- Text Generator Engine/**/best_*/
+# Generated text outputs and training history
+Project14- Text Generator Engine/**/generated_text/
+Project14- Text Generator Engine/**/text_outputs/
+Project14- Text Generator Engine/**/story_outputs/
+Project14- Text Generator Engine/**/training_history.json
+Project14- Text Generator Engine/**/training_logs/
+Project14- Text Generator Engine/**/logs/
+# Hugging Face cache and model downloads
+Project14- Text Generator Engine/**/.cache/
+Project14- Text Generator Engine/**/huggingface/
+Project14- Text Generator Engine/**/transformers_cache/
+# Dataset files and processed data
+Project14- Text Generator Engine/**/datasets/
+Project14- Text Generator Engine/**/processed_data/
+Project14- Text Generator Engine/**/tokenized_data/
+Project14- Text Generator Engine/**/TinyStories*/
