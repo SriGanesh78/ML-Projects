@@ -302,3 +302,59 @@ Project14- Text Generator Engine/**/datasets/
 Project14- Text Generator Engine/**/processed_data/
 Project14- Text Generator Engine/**/tokenized_data/
 Project14- Text Generator Engine/**/TinyStories*/
+
+# Project16-DocumentProcessing specific
+Project16-DocumentProcessing/**/share/jupyter/
+Project16-DocumentProcessing/**/nbextensions/
+Project16-DocumentProcessing/**/labextensions/
+Project16-DocumentProcessing/**/kernels/
+Project16-DocumentProcessing/venv/
+Project16-DocumentProcessing/.venv/
+Project16-DocumentProcessing/env/
+Project16-DocumentProcessing/agentic_AI*/
+Project16-DocumentProcessing/.kaggle/
+Project16-DocumentProcessing/kaggle.json
+Project16-DocumentProcessing/data/
+Project16-DocumentProcessing/models/
+Project16-DocumentProcessing/checkpoints/
+Project16-DocumentProcessing/outputs/
+Project16-DocumentProcessing/artifacts/
+Project16-DocumentProcessing/**/*.zip
+Project16-DocumentProcessing/**/*.pkl
+Project16-DocumentProcessing/**/*.joblib
+Project16-DocumentProcessing/**/*.h5
+Project16-DocumentProcessing/**/*.hdf5
+Project16-DocumentProcessing/**/*.weights.h5
+Project16-DocumentProcessing/**/*.weights
+Project16-DocumentProcessing/**/*.bin
+Project16-DocumentProcessing/**/*.safetensors
+# OCR and document processing outputs
+Project16-DocumentProcessing/content/
+Project16-DocumentProcessing/**/processed_images/
+Project16-DocumentProcessing/**/tesseract_output/
+Project16-DocumentProcessing/**/json_output/
+Project16-DocumentProcessing/**/ocr_results/
+Project16-DocumentProcessing/**/extracted_text/
+Project16-DocumentProcessing/**/document_analysis/
+Project16-DocumentProcessing/**/processed_documents/
+# Backup files from path fixes
+Project16-DocumentProcessing/**/*.backup
+Project16-DocumentProcessing/**/*_backup
+Project16-DocumentProcessing/**/*.kaggle_backup
+Project16-DocumentProcessing/**/*.content_backup
+# Dataset files and cache
+Project16-DocumentProcessing/**/SROIE2019/
+Project16-DocumentProcessing/**/datasets/
+Project16-DocumentProcessing/**/cache/
+Project16-DocumentProcessing/**/.cache/
+Project16-DocumentProcessing/**/kaggle_cache/
+# OCR engine files and models
+Project16-DocumentProcessing/**/tesseract_models/
+Project16-DocumentProcessing/**/ocr_models/
+Project16-DocumentProcessing/**/layoutlm_models/
+Project16-DocumentProcessing/**/layoutlm-base-uncased/
+# Generated reports and logs
+Project16-DocumentProcessing/**/reports/
+Project16-DocumentProcessing/**/logs/
+Project16-DocumentProcessing/**/processing_logs/
+Project16-DocumentProcessing/**/ocr_logs/
