@@ -822,3 +822,138 @@ Project19-Market Analysis/**/analysis_dashboard/
 Project19-Market Analysis/**/statistics_dashboard/
 Project19-Market Analysis/**/reporting_dashboard/
 Project19-Market Analysis/**/visualization_dashboard/
+
+# DeepLearning4-HiggingFacePipeline specific
+DeepLearning4-HiggingFacePipeline/**/share/jupyter/
+DeepLearning4-HiggingFacePipeline/**/nbextensions/
+DeepLearning4-HiggingFacePipeline/**/labextensions/
+DeepLearning4-HiggingFacePipeline/**/kernels/
+DeepLearning4-HiggingFacePipeline/venv/
+DeepLearning4-HiggingFacePipeline/.venv/
+DeepLearning4-HiggingFacePipeline/env/
+DeepLearning4-HiggingFacePipeline/agentic_AI*/
+DeepLearning4-HiggingFacePipeline/.kaggle/
+DeepLearning4-HiggingFacePipeline/kaggle.json
+DeepLearning4-HiggingFacePipeline/data/
+DeepLearning4-HiggingFacePipeline/models/
+DeepLearning4-HiggingFacePipeline/checkpoints/
+DeepLearning4-HiggingFacePipeline/outputs/
+DeepLearning4-HiggingFacePipeline/artifacts/
+DeepLearning4-HiggingFacePipeline/**/*.zip
+DeepLearning4-HiggingFacePipeline/**/*.pkl
+DeepLearning4-HiggingFacePipeline/**/*.joblib
+DeepLearning4-HiggingFacePipeline/**/*.h5
+DeepLearning4-HiggingFacePipeline/**/*.hdf5
+DeepLearning4-HiggingFacePipeline/**/*.weights.h5
+DeepLearning4-HiggingFacePipeline/**/*.weights
+DeepLearning4-HiggingFacePipeline/**/*.bin
+DeepLearning4-HiggingFacePipeline/**/*.safetensors
+# Hugging Face specific files and cache
+DeepLearning4-HiggingFacePipeline/**/.cache/
+DeepLearning4-HiggingFacePipeline/**/huggingface/
+DeepLearning4-HiggingFacePipeline/**/transformers_cache/
+DeepLearning4-HiggingFacePipeline/**/model_cache/
+DeepLearning4-HiggingFacePipeline/**/pipeline_cache/
+DeepLearning4-HiggingFacePipeline/**/tokenizer_cache/
+DeepLearning4-HiggingFacePipeline/**/feature_extractor_cache/
+DeepLearning4-HiggingFacePipeline/**/processor_cache/
+# Model downloads and checkpoints
+DeepLearning4-HiggingFacePipeline/**/downloaded_models/
+DeepLearning4-HiggingFacePipeline/**/pretrained_models/
+DeepLearning4-HiggingFacePipeline/**/fine_tuned_models/
+DeepLearning4-HiggingFacePipeline/**/model_checkpoints/
+DeepLearning4-HiggingFacePipeline/**/training_checkpoints/
+DeepLearning4-HiggingFacePipeline/**/inference_checkpoints/
+# Pipeline outputs and results
+DeepLearning4-HiggingFacePipeline/**/pipeline_outputs/
+DeepLearning4-HiggingFacePipeline/**/inference_results/
+DeepLearning4-HiggingFacePipeline/**/classification_results/
+DeepLearning4-HiggingFacePipeline/**/generation_results/
+DeepLearning4-HiggingFacePipeline/**/translation_results/
+DeepLearning4-HiggingFacePipeline/**/summarization_results/
+DeepLearning4-HiggingFacePipeline/**/question_answering_results/
+DeepLearning4-HiggingFacePipeline/**/text_classification_results/
+DeepLearning4-HiggingFacePipeline/**/sentiment_analysis_results/
+DeepLearning4-HiggingFacePipeline/**/named_entity_recognition_results/
+DeepLearning4-HiggingFacePipeline/**/token_classification_results/
+DeepLearning4-HiggingFacePipeline/**/zero_shot_classification_results/
+DeepLearning4-HiggingFacePipeline/**/feature_extraction_results/
+DeepLearning4-HiggingFacePipeline/**/fill_mask_results/
+DeepLearning4-HiggingFacePipeline/**/automatic_speech_recognition_results/
+DeepLearning4-HiggingFacePipeline/**/audio_classification_results/
+DeepLearning4-HiggingFacePipeline/**/image_classification_results/
+DeepLearning4-HiggingFacePipeline/**/object_detection_results/
+DeepLearning4-HiggingFacePipeline/**/image_segmentation_results/
+DeepLearning4-HiggingFacePipeline/**/depth_estimation_results/
+DeepLearning4-HiggingFacePipeline/**/image_to_text_results/
+DeepLearning4-HiggingFacePipeline/**/visual_question_answering_results/
+DeepLearning4-HiggingFacePipeline/**/document_question_answering_results/
+DeepLearning4-HiggingFacePipeline/**/table_question_answering_results/
+# Temporary files and cache
+DeepLearning4-HiggingFacePipeline/**/temp/
+DeepLearning4-HiggingFacePipeline/**/tmp/
+DeepLearning4-HiggingFacePipeline/**/cache/
+DeepLearning4-HiggingFacePipeline/**/logs/
+DeepLearning4-HiggingFacePipeline/**/*.log
+DeepLearning4-HiggingFacePipeline/**/debug_logs/
+DeepLearning4-HiggingFacePipeline/**/error_logs/
+DeepLearning4-HiggingFacePipeline/**/inference_logs/
+DeepLearning4-HiggingFacePipeline/**/training_logs/
+DeepLearning4-HiggingFacePipeline/**/pipeline_logs/
+DeepLearning4-HiggingFacePipeline/**/model_logs/
+DeepLearning4-HiggingFacePipeline/**/performance_logs/
+DeepLearning4-HiggingFacePipeline/**/memory_logs/
+DeepLearning4-HiggingFacePipeline/**/gpu_logs/
+DeepLearning4-HiggingFacePipeline/**/cpu_logs/
+# Dataset files
+DeepLearning4-HiggingFacePipeline/**/datasets/
+DeepLearning4-HiggingFacePipeline/**/processed_datasets/
+DeepLearning4-HiggingFacePipeline/**/tokenized_datasets/
+DeepLearning4-HiggingFacePipeline/**/encoded_datasets/
+DeepLearning4-HiggingFacePipeline/**/training_datasets/
+DeepLearning4-HiggingFacePipeline/**/validation_datasets/
+DeepLearning4-HiggingFacePipeline/**/test_datasets/
+DeepLearning4-HiggingFacePipeline/**/evaluation_datasets/
+# Configuration and environment files
+DeepLearning4-HiggingFacePipeline/**/.env
+DeepLearning4-HiggingFacePipeline/**/config.json
+DeepLearning4-HiggingFacePipeline/**/model_config.json
+DeepLearning4-HiggingFacePipeline/**/tokenizer_config.json
+DeepLearning4-HiggingFacePipeline/**/training_args.json
+DeepLearning4-HiggingFacePipeline/**/accelerate_config.yaml
+DeepLearning4-HiggingFacePipeline/**/wandb/
+DeepLearning4-HiggingFacePipeline/**/tensorboard/
+DeepLearning4-HiggingFacePipeline/**/mlruns/
+# Generated outputs and reports
+DeepLearning4-HiggingFacePipeline/**/generated_text/
+DeepLearning4-HiggingFacePipeline/**/generated_images/
+DeepLearning4-HiggingFacePipeline/**/generated_audio/
+DeepLearning4-HiggingFacePipeline/**/generated_videos/
+DeepLearning4-HiggingFacePipeline/**/reports/
+DeepLearning4-HiggingFacePipeline/**/evaluation_reports/
+DeepLearning4-HiggingFacePipeline/**/performance_reports/
+DeepLearning4-HiggingFacePipeline/**/benchmark_reports/
+DeepLearning4-HiggingFacePipeline/**/analysis_reports/
+# Model artifacts and weights
+DeepLearning4-HiggingFacePipeline/**/model_artifacts/
+DeepLearning4-HiggingFacePipeline/**/model_weights/
+DeepLearning4-HiggingFacePipeline/**/adapter_weights/
+DeepLearning4-HiggingFacePipeline/**/lora_weights/
+DeepLearning4-HiggingFacePipeline/**/qlora_weights/
+DeepLearning4-HiggingFacePipeline/**/quantized_models/
+DeepLearning4-HiggingFacePipeline/**/pruned_models/
+DeepLearning4-HiggingFacePipeline/**/distilled_models/
+# Hugging Face Hub specific
+DeepLearning4-HiggingFacePipeline/**/hub_cache/
+DeepLearning4-HiggingFacePipeline/**/snapshots/
+DeepLearning4-HiggingFacePipeline/**/refs/
+DeepLearning4-HiggingFacePipeline/**/blobs/
+DeepLearning4-HiggingFacePipeline/**/lfs/
+# Performance and profiling data
+DeepLearning4-HiggingFacePipeline/**/profiling_data/
+DeepLearning4-HiggingFacePipeline/**/benchmark_data/
+DeepLearning4-HiggingFacePipeline/**/metrics_data/
+DeepLearning4-HiggingFacePipeline/**/timing_data/
+DeepLearning4-HiggingFacePipeline/**/memory_profiling/
+DeepLearning4-HiggingFacePipeline/**/gpu_profiling/
+DeepLearning4-HiggingFacePipeline/**/cpu_profiling/
