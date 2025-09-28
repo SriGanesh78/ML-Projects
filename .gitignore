@@ -358,3 +358,467 @@ Project16-DocumentProcessing/**/reports/
 Project16-DocumentProcessing/**/logs/
 Project16-DocumentProcessing/**/processing_logs/
 Project16-DocumentProcessing/**/ocr_logs/
+
+# Project17-Internet Search Engine specific
+Project17-Internet Search Engine/**/share/jupyter/
+Project17-Internet Search Engine/**/nbextensions/
+Project17-Internet Search Engine/**/labextensions/
+Project17-Internet Search Engine/**/kernels/
+Project17-Internet Search Engine/venv/
+Project17-Internet Search Engine/.venv/
+Project17-Internet Search Engine/env/
+Project17-Internet Search Engine/agentic_AI*/
+Project17-Internet Search Engine/.kaggle/
+Project17-Internet Search Engine/kaggle.json
+Project17-Internet Search Engine/data/
+Project17-Internet Search Engine/models/
+Project17-Internet Search Engine/checkpoints/
+Project17-Internet Search Engine/outputs/
+Project17-Internet Search Engine/artifacts/
+#Project17-Internet Search Engine/**/*.zip
+Project17-Internet Search Engine/**/*.pkl
+Project17-Internet Search Engine/**/*.joblib
+Project17-Internet Search Engine/**/*.h5
+Project17-Internet Search Engine/**/*.hdf5
+Project17-Internet Search Engine/**/*.weights.h5
+Project17-Internet Search Engine/**/*.weights
+Project17-Internet Search Engine/**/*.bin
+Project17-Internet Search Engine/**/*.safetensors
+# Web crawling and search engine outputs
+Project17-Internet Search Engine/**/crawl_results/
+Project17-Internet Search Engine/**/search_index/
+Project17-Internet Search Engine/**/crawled_data/
+Project17-Internet Search Engine/**/web_cache/
+Project17-Internet Search Engine/**/search_cache/
+Project17-Internet Search Engine/**/crawl_cache/
+Project17-Internet Search Engine/**/crawl_results_*.json
+Project17-Internet Search Engine/**/search_results_*.json
+Project17-Internet Search Engine/**/index_*.json
+# Browser and crawler temporary files
+Project17-Internet Search Engine/**/browser_cache/
+Project17-Internet Search Engine/**/playwright_cache/
+Project17-Internet Search Engine/**/chromium/
+Project17-Internet Search Engine/**/firefox/
+Project17-Internet Search Engine/**/safari/
+# Logs and debugging files
+Project17-Internet Search Engine/**/logs/
+Project17-Internet Search Engine/**/crawl_logs/
+Project17-Internet Search Engine/**/search_logs/
+Project17-Internet Search Engine/**/debug_logs/
+
+# Project18-ChatBot specific
+Project18-ChatBot/**/share/jupyter/
+Project18-ChatBot/**/nbextensions/
+Project18-ChatBot/**/labextensions/
+Project18-ChatBot/**/kernels/
+Project18-ChatBot/venv/
+Project18-ChatBot/.venv/
+Project18-ChatBot/env/
+Project18-ChatBot/agentic_AI*/
+Project18-ChatBot/.kaggle/
+Project18-ChatBot/kaggle.json
+Project18-ChatBot/data/
+Project18-ChatBot/models/
+Project18-ChatBot/checkpoints/
+Project18-ChatBot/outputs/
+Project18-ChatBot/artifacts/
+Project18-ChatBot/**/*.zip
+Project18-ChatBot/**/*.pkl
+Project18-ChatBot/**/*.joblib
+Project18-ChatBot/**/*.h5
+Project18-ChatBot/**/*.hdf5
+Project18-ChatBot/**/*.weights.h5
+Project18-ChatBot/**/*.weights
+Project18-ChatBot/**/*.bin
+Project18-ChatBot/**/*.safetensors
+# RAG and chatbot specific files
+Project18-ChatBot/**/vector_store/
+Project18-ChatBot/**/embeddings/
+Project18-ChatBot/**/knowledge_base/
+Project18-ChatBot/**/documents/
+Project18-ChatBot/**/processed_docs/
+Project18-ChatBot/**/chunks/
+Project18-ChatBot/**/indexes/
+Project18-ChatBot/**/faiss_index/
+Project18-ChatBot/**/chroma_db/
+Project18-ChatBot/**/pinecone_index/
+Project18-ChatBot/**/weaviate_data/
+Project18-ChatBot/**/qdrant_data/
+Project18-ChatBot/**/milvus_data/
+# Chat history and conversations
+Project18-ChatBot/**/chat_history/
+Project18-ChatBot/**/conversations/
+Project18-ChatBot/**/chat_logs/
+Project18-ChatBot/**/session_data/
+Project18-ChatBot/**/user_sessions/
+# Model files and checkpoints
+Project18-ChatBot/**/llm_models/
+Project18-ChatBot/**/embedding_models/
+Project18-ChatBot/**/retrieval_models/
+Project18-ChatBot/**/fine_tuned_models/
+Project18-ChatBot/**/huggingface_cache/
+Project18-ChatBot/**/transformers_cache/
+Project18-ChatBot/**/sentence_transformers_cache/
+# API keys and secrets
+Project18-ChatBot/**/.env
+Project18-ChatBot/**/config.json
+Project18-ChatBot/**/secrets.json
+Project18-ChatBot/**/api_keys.json
+Project18-ChatBot/**/credentials.json
+# Generated outputs and results
+Project18-ChatBot/**/generated_responses/
+Project18-ChatBot/**/evaluation_results/
+Project18-ChatBot/**/test_results/
+Project18-ChatBot/**/benchmark_results/
+Project18-ChatBot/**/performance_logs/
+# Temporary files and cache
+Project18-ChatBot/**/temp/
+Project18-ChatBot/**/tmp/
+Project18-ChatBot/**/cache/
+Project18-ChatBot/**/.cache/
+Project18-ChatBot/**/__pycache__/
+Project18-ChatBot/**/*.pyc
+Project18-ChatBot/**/*.pyo
+Project18-ChatBot/**/*.pyd
+Project18-ChatBot/**/.Python
+Project18-ChatBot/**/build/
+Project18-ChatBot/**/develop-eggs/
+Project18-ChatBot/**/dist/
+Project18-ChatBot/**/downloads/
+Project18-ChatBot/**/eggs/
+Project18-ChatBot/**/.eggs/
+Project18-ChatBot/**/lib/
+Project18-ChatBot/**/lib64/
+Project18-ChatBot/**/parts/
+Project18-ChatBot/**/sdist/
+Project18-ChatBot/**/var/
+Project18-ChatBot/**/wheels/
+Project18-ChatBot/**/*.egg-info/
+Project18-ChatBot/**/.installed.cfg
+Project18-ChatBot/**/*.egg
+Project18-ChatBot/**/MANIFEST
+# Logs and debugging
+Project18-ChatBot/**/*.log
+Project18-ChatBot/**/logs/
+Project18-ChatBot/**/debug_logs/
+Project18-ChatBot/**/error_logs/
+Project18-ChatBot/**/chat_logs/
+Project18-ChatBot/**/rag_logs/
+Project18-ChatBot/**/retrieval_logs/
+Project18-ChatBot/**/embedding_logs/
+Project18-ChatBot/**/model_logs/
+Project18-ChatBot/**/api_logs/
+Project18-ChatBot/**/performance_logs/
+Project18-ChatBot/**/evaluation_logs/
+Project18-ChatBot/**/training_logs/
+Project18-ChatBot/**/inference_logs/
+Project18-ChatBot/**/debugging_logs/
+Project18-ChatBot/**/monitoring_logs/
+Project18-ChatBot/**/audit_logs/
+Project18-ChatBot/**/access_logs/
+Project18-ChatBot/**/system_logs/
+Project18-ChatBot/**/application_logs/
+Project18-ChatBot/**/error_traces/
+Project18-ChatBot/**/stack_traces/
+Project18-ChatBot/**/crash_dumps/
+Project18-ChatBot/**/core_dumps/
+Project18-ChatBot/**/memory_dumps/
+Project18-ChatBot/**/profiling_data/
+Project18-ChatBot/**/benchmark_data/
+Project18-ChatBot/**/metrics_data/
+Project18-ChatBot/**/analytics_data/
+Project18-ChatBot/**/usage_data/
+Project18-ChatBot/**/telemetry_data/
+Project18-ChatBot/**/monitoring_data/
+Project18-ChatBot/**/health_check_data/
+Project18-ChatBot/**/status_data/
+Project18-ChatBot/**/diagnostic_data/
+Project18-ChatBot/**/troubleshooting_data/
+Project18-ChatBot/**/support_data/
+Project18-ChatBot/**/incident_data/
+Project18-ChatBot/**/alert_data/
+Project18-ChatBot/**/notification_data/
+Project18-ChatBot/**/event_data/
+Project18-ChatBot/**/activity_data/
+Project18-ChatBot/**/session_data/
+Project18-ChatBot/**/user_data/
+Project18-ChatBot/**/interaction_data/
+Project18-ChatBot/**/conversation_data/
+Project18-ChatBot/**/chat_data/
+Project18-ChatBot/**/message_data/
+Project18-ChatBot/**/response_data/
+Project18-ChatBot/**/query_data/
+Project18-ChatBot/**/retrieval_data/
+Project18-ChatBot/**/embedding_data/
+Project18-ChatBot/**/vector_data/
+Project18-ChatBot/**/index_data/
+Project18-ChatBot/**/search_data/
+Project18-ChatBot/**/ranking_data/
+Project18-ChatBot/**/scoring_data/
+Project18-ChatBot/**/relevance_data/
+Project18-ChatBot/**/similarity_data/
+Project18-ChatBot/**/distance_data/
+Project18-ChatBot/**/clustering_data/
+Project18-ChatBot/**/classification_data/
+Project18-ChatBot/**/extraction_data/
+Project18-ChatBot/**/parsing_data/
+Project18-ChatBot/**/tokenization_data/
+Project18-ChatBot/**/preprocessing_data/
+Project18-ChatBot/**/postprocessing_data/
+Project18-ChatBot/**/transformation_data/
+Project18-ChatBot/**/normalization_data/
+Project18-ChatBot/**/cleaning_data/
+Project18-ChatBot/**/filtering_data/
+Project18-ChatBot/**/validation_data/
+Project18-ChatBot/**/verification_data/
+Project18-ChatBot/**/testing_data/
+Project18-ChatBot/**/evaluation_data/
+Project18-ChatBot/**/benchmarking_data/
+Project18-ChatBot/**/comparison_data/
+Project18-ChatBot/**/analysis_data/
+Project18-ChatBot/**/statistics_data/
+Project18-ChatBot/**/reporting_data/
+Project18-ChatBot/**/visualization_data/
+Project18-ChatBot/**/dashboard_data/
+Project18-ChatBot/**/monitoring_dashboard/
+Project18-ChatBot/**/analytics_dashboard/
+Project18-ChatBot/**/performance_dashboard/
+Project18-ChatBot/**/usage_dashboard/
+Project18-ChatBot/**/health_dashboard/
+Project18-ChatBot/**/status_dashboard/
+Project18-ChatBot/**/diagnostic_dashboard/
+Project18-ChatBot/**/troubleshooting_dashboard/
+Project18-ChatBot/**/support_dashboard/
+Project18-ChatBot/**/incident_dashboard/
+Project18-ChatBot/**/alert_dashboard/
+Project18-ChatBot/**/notification_dashboard/
+Project18-ChatBot/**/event_dashboard/
+Project18-ChatBot/**/activity_dashboard/
+Project18-ChatBot/**/session_dashboard/
+Project18-ChatBot/**/user_dashboard/
+Project18-ChatBot/**/interaction_dashboard/
+Project18-ChatBot/**/conversation_dashboard/
+Project18-ChatBot/**/chat_dashboard/
+Project18-ChatBot/**/message_dashboard/
+Project18-ChatBot/**/response_dashboard/
+Project18-ChatBot/**/query_dashboard/
+Project18-ChatBot/**/retrieval_dashboard/
+Project18-ChatBot/**/embedding_dashboard/
+Project18-ChatBot/**/vector_dashboard/
+Project18-ChatBot/**/index_dashboard/
+Project18-ChatBot/**/search_dashboard/
+Project18-ChatBot/**/ranking_dashboard/
+Project18-ChatBot/**/scoring_dashboard/
+Project18-ChatBot/**/relevance_dashboard/
+Project18-ChatBot/**/similarity_dashboard/
+Project18-ChatBot/**/distance_dashboard/
+Project18-ChatBot/**/clustering_dashboard/
+Project18-ChatBot/**/classification_dashboard/
+Project18-ChatBot/**/extraction_dashboard/
+Project18-ChatBot/**/parsing_dashboard/
+Project18-ChatBot/**/tokenization_dashboard/
+Project18-ChatBot/**/preprocessing_dashboard/
+Project18-ChatBot/**/postprocessing_dashboard/
+Project18-ChatBot/**/transformation_dashboard/
+Project18-ChatBot/**/normalization_dashboard/
+Project18-ChatBot/**/cleaning_dashboard/
+Project18-ChatBot/**/filtering_dashboard/
+Project18-ChatBot/**/validation_dashboard/
+Project18-ChatBot/**/verification_dashboard/
+Project18-ChatBot/**/testing_dashboard/
+Project18-ChatBot/**/evaluation_dashboard/
+Project18-ChatBot/**/benchmarking_dashboard/
+Project18-ChatBot/**/comparison_dashboard/
+Project18-ChatBot/**/analysis_dashboard/
+Project18-ChatBot/**/statistics_dashboard/
+Project18-ChatBot/**/reporting_dashboard/
+Project18-ChatBot/**/visualization_dashboard/
+Project17-Internet Search Engine/**/*.log
+# Database files for search index
+Project17-Internet Search Engine/**/*.db
+Project17-Internet Search Engine/**/*.sqlite
+Project17-Internet Search Engine/**/*.sqlite3
+Project17-Internet Search Engine/**/search_index.db
+Project17-Internet Search Engine/**/crawl_database.db
+
+# Project19-Market Analysis specific
+Project19-Market Analysis/**/share/jupyter/
+Project19-Market Analysis/**/nbextensions/
+Project19-Market Analysis/**/labextensions/
+Project19-Market Analysis/**/kernels/
+Project19-Market Analysis/venv/
+Project19-Market Analysis/.venv/
+Project19-Market Analysis/env/
+Project19-Market Analysis/agentic_AI*/
+Project19-Market Analysis/.kaggle/
+Project19-Market Analysis/kaggle.json
+Project19-Market Analysis/data/
+Project19-Market Analysis/models/
+Project19-Market Analysis/checkpoints/
+Project19-Market Analysis/outputs/
+Project19-Market Analysis/artifacts/
+Project19-Market Analysis/**/*.zip
+Project19-Market Analysis/**/*.pkl
+Project19-Market Analysis/**/*.joblib
+Project19-Market Analysis/**/*.h5
+Project19-Market Analysis/**/*.hdf5
+Project19-Market Analysis/**/*.weights.h5
+Project19-Market Analysis/**/*.weights
+Project19-Market Analysis/**/*.bin
+Project19-Market Analysis/**/*.safetensors
+# Market analysis and research outputs
+Project19-Market Analysis/**/research_results/
+Project19-Market Analysis/**/market_data/
+Project19-Market Analysis/**/analysis_reports/
+Project19-Market Analysis/**/research_papers/
+Project19-Market Analysis/**/blog_posts/
+Project19-Market Analysis/**/generated_content/
+Project19-Market Analysis/**/ai_research/
+Project19-Market Analysis/**/market_insights/
+Project19-Market Analysis/**/financial_data/
+Project19-Market Analysis/**/stock_data/
+Project19-Market Analysis/**/crypto_data/
+Project19-Market Analysis/**/economic_indicators/
+Project19-Market Analysis/**/company_data/
+Project19-Market Analysis/**/industry_data/
+Project19-Market Analysis/**/sector_analysis/
+Project19-Market Analysis/**/trend_analysis/
+Project19-Market Analysis/**/sentiment_analysis/
+Project19-Market Analysis/**/news_data/
+Project19-Market Analysis/**/social_media_data/
+Project19-Market Analysis/**/web_scraping_data/
+Project19-Market Analysis/**/api_responses/
+Project19-Market Analysis/**/cached_data/
+Project19-Market Analysis/**/cache/
+Project19-Market Analysis/**/.cache/
+Project19-Market Analysis/**/temp/
+Project19-Market Analysis/**/tmp/
+Project19-Market Analysis/**/logs/
+Project19-Market Analysis/**/*.log
+Project19-Market Analysis/**/debug_logs/
+Project19-Market Analysis/**/error_logs/
+Project19-Market Analysis/**/research_logs/
+Project19-Market Analysis/**/analysis_logs/
+Project19-Market Analysis/**/scraping_logs/
+Project19-Market Analysis/**/api_logs/
+Project19-Market Analysis/**/performance_logs/
+Project19-Market Analysis/**/monitoring_logs/
+Project19-Market Analysis/**/audit_logs/
+Project19-Market Analysis/**/access_logs/
+Project19-Market Analysis/**/system_logs/
+Project19-Market Analysis/**/application_logs/
+Project19-Market Analysis/**/error_traces/
+Project19-Market Analysis/**/stack_traces/
+Project19-Market Analysis/**/crash_dumps/
+Project19-Market Analysis/**/core_dumps/
+Project19-Market Analysis/**/memory_dumps/
+Project19-Market Analysis/**/profiling_data/
+Project19-Market Analysis/**/benchmark_data/
+Project19-Market Analysis/**/metrics_data/
+Project19-Market Analysis/**/analytics_data/
+Project19-Market Analysis/**/usage_data/
+Project19-Market Analysis/**/telemetry_data/
+Project19-Market Analysis/**/monitoring_data/
+Project19-Market Analysis/**/health_check_data/
+Project19-Market Analysis/**/status_data/
+Project19-Market Analysis/**/diagnostic_data/
+Project19-Market Analysis/**/troubleshooting_data/
+Project19-Market Analysis/**/support_data/
+Project19-Market Analysis/**/incident_data/
+Project19-Market Analysis/**/alert_data/
+Project19-Market Analysis/**/notification_data/
+Project19-Market Analysis/**/event_data/
+Project19-Market Analysis/**/activity_data/
+Project19-Market Analysis/**/session_data/
+Project19-Market Analysis/**/user_data/
+Project19-Market Analysis/**/interaction_data/
+Project19-Market Analysis/**/conversation_data/
+Project19-Market Analysis/**/chat_data/
+Project19-Market Analysis/**/message_data/
+Project19-Market Analysis/**/response_data/
+Project19-Market Analysis/**/query_data/
+Project19-Market Analysis/**/retrieval_data/
+Project19-Market Analysis/**/embedding_data/
+Project19-Market Analysis/**/vector_data/
+Project19-Market Analysis/**/index_data/
+Project19-Market Analysis/**/search_data/
+Project19-Market Analysis/**/ranking_data/
+Project19-Market Analysis/**/scoring_data/
+Project19-Market Analysis/**/relevance_data/
+Project19-Market Analysis/**/similarity_data/
+Project19-Market Analysis/**/distance_data/
+Project19-Market Analysis/**/clustering_data/
+Project19-Market Analysis/**/classification_data/
+Project19-Market Analysis/**/extraction_data/
+Project19-Market Analysis/**/parsing_data/
+Project19-Market Analysis/**/tokenization_data/
+Project19-Market Analysis/**/preprocessing_data/
+Project19-Market Analysis/**/postprocessing_data/
+Project19-Market Analysis/**/transformation_data/
+Project19-Market Analysis/**/normalization_data/
+Project19-Market Analysis/**/cleaning_data/
+Project19-Market Analysis/**/filtering_data/
+Project19-Market Analysis/**/validation_data/
+Project19-Market Analysis/**/verification_data/
+Project19-Market Analysis/**/testing_data/
+Project19-Market Analysis/**/evaluation_data/
+Project19-Market Analysis/**/benchmarking_data/
+Project19-Market Analysis/**/comparison_data/
+Project19-Market Analysis/**/analysis_data/
+Project19-Market Analysis/**/statistics_data/
+Project19-Market Analysis/**/reporting_data/
+Project19-Market Analysis/**/visualization_data/
+Project19-Market Analysis/**/dashboard_data/
+Project19-Market Analysis/**/monitoring_dashboard/
+Project19-Market Analysis/**/analytics_dashboard/
+Project19-Market Analysis/**/performance_dashboard/
+Project19-Market Analysis/**/usage_dashboard/
+Project19-Market Analysis/**/health_dashboard/
+Project19-Market Analysis/**/status_dashboard/
+Project19-Market Analysis/**/diagnostic_dashboard/
+Project19-Market Analysis/**/troubleshooting_dashboard/
+Project19-Market Analysis/**/support_dashboard/
+Project19-Market Analysis/**/incident_dashboard/
+Project19-Market Analysis/**/alert_dashboard/
+Project19-Market Analysis/**/notification_dashboard/
+Project19-Market Analysis/**/event_dashboard/
+Project19-Market Analysis/**/activity_dashboard/
+Project19-Market Analysis/**/session_dashboard/
+Project19-Market Analysis/**/user_dashboard/
+Project19-Market Analysis/**/interaction_dashboard/
+Project19-Market Analysis/**/conversation_dashboard/
+Project19-Market Analysis/**/chat_dashboard/
+Project19-Market Analysis/**/message_dashboard/
+Project19-Market Analysis/**/response_dashboard/
+Project19-Market Analysis/**/query_dashboard/
+Project19-Market Analysis/**/retrieval_dashboard/
+Project19-Market Analysis/**/embedding_dashboard/
+Project19-Market Analysis/**/vector_dashboard/
+Project19-Market Analysis/**/index_dashboard/
+Project19-Market Analysis/**/search_dashboard/
+Project19-Market Analysis/**/ranking_dashboard/
+Project19-Market Analysis/**/scoring_dashboard/
+Project19-Market Analysis/**/relevance_dashboard/
+Project19-Market Analysis/**/similarity_dashboard/
+Project19-Market Analysis/**/distance_dashboard/
+Project19-Market Analysis/**/clustering_dashboard/
+Project19-Market Analysis/**/classification_dashboard/
+Project19-Market Analysis/**/extraction_dashboard/
+Project19-Market Analysis/**/parsing_dashboard/
+Project19-Market Analysis/**/tokenization_dashboard/
+Project19-Market Analysis/**/preprocessing_dashboard/
+Project19-Market Analysis/**/postprocessing_dashboard/
+Project19-Market Analysis/**/transformation_dashboard/
+Project19-Market Analysis/**/normalization_dashboard/
+Project19-Market Analysis/**/cleaning_dashboard/
+Project19-Market Analysis/**/filtering_dashboard/
+Project19-Market Analysis/**/validation_dashboard/
+Project19-Market Analysis/**/verification_dashboard/
+Project19-Market Analysis/**/testing_dashboard/
+Project19-Market Analysis/**/evaluation_dashboard/
+Project19-Market Analysis/**/benchmarking_dashboard/
+Project19-Market Analysis/**/comparison_dashboard/
+Project19-Market Analysis/**/analysis_dashboard/
+Project19-Market Analysis/**/statistics_dashboard/
+Project19-Market Analysis/**/reporting_dashboard/
+Project19-Market Analysis/**/visualization_dashboard/
