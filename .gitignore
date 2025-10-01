@@ -957,3 +957,5 @@ DeepLearning4-HiggingFacePipeline/**/timing_data/
 DeepLearning4-HiggingFacePipeline/**/memory_profiling/
 DeepLearning4-HiggingFacePipeline/**/gpu_profiling/
 DeepLearning4-HiggingFacePipeline/**/cpu_profiling/
+.env
+*.env
